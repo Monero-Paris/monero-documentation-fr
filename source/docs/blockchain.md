@@ -6,23 +6,25 @@ section: content
 ---
 
 # Blockchain
-La technologie blockchain (ou chaine de blocs) est utilisée depuis les années 1980.
-Le terme blockchain renvoit à une méthode de stockage numérique d'informations. Ce stockage se fait de manière décentralisé, sans intérmédiare de confiance, et sécurisé par des procésus mathématiques.
+> Technologie de stockage et de transmission d’informations à coût minime, sécurisée, transparente, et fonctionnant sans organe central de contrôle. Par extension, une blockchain (littéralement une « chaîne de blocs ») désigne une base de données sécurisée et décentralisée, répliquée sur un très grand nombre de noeuds, et contenant un ensemble de transactions dont chacun peut vérifier la validité. Une blockchain peut donc être assimilée à un grand livre comptable transparent, pseudonyme et infalsifiable.  
+<a href="https://blockchainfrance.net/le-lexique-de-la-blockchain/" target="_blank">Source</a>
 
 <img src="/assets/img/blockchain.svg" class="" alt="stack icon">
 
 ## Avantages  de la blockchain
 
-* Simplicité et rapidité:  
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut quisquam suscipit quo animi exercitationem necessitatibus. Consequatur, cum error, molestiae qui eius assumenda unde, quisquam similique recusandae nemo eos dolores, aliquam?
+* ***Simplicité et rapidité:***  
+Les participants sur un reseau blockchain n'ont pas besoin de disposer d'infrastructures complexes pour interagir entre eux. Une transaction sur le réseau est quasi instantanée.
 
-* Pas d'intérmédiaire:  
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ipsa doloribus vero odit alias sed porro dolorum beatae esse! Magnam soluta consequuntur perferendis porro rerum, corrupti blanditiis provident vero sed.
+* ***Pas d'intérmédiaire:***  
+Chaque utilisateur est autonome. 
 
-* Ireversabilité:  
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum numquam, impedit excepturi perspiciatis velit nulla officia saepe, laboriosam modi laborum atque fugiat delectus, quasi ipsa? Illum eligendi tenetur, ratione aliquid.
+* ***Pseudonymat voire Anonymat:***  
+Pour générer une identité numérique, aucun document ni justification n'est à fournir. Une adresse est en réalité une suite de chiffres et de lettres générée par le processeur de votre ordinateur ou téléphone.
 
-* Risque de censure limité:  
+* ***Ireversabilité:***  
+Toute transaction sur le réseau est irreversible et définitive. Les commerçants n'ont pas besoin de demander à leur clients des informations telles que l'adresse de facturation, le nom etc...  
+<a href="https://en.bitcoin.it/wiki/Irreversible_Transactions" target="_blank">Source</a>
+
+* ***Risque de censure limité:***  
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero porro, necessitatibus modi, tempora ipsa totam, exercitationem doloremque neque autem voluptatem iste cum consequatur nulla! Omnis veritatis mollitia quo vel, pariatur.
-
-## Anatomie d'un bloc

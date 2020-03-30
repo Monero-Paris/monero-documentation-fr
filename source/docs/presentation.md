@@ -9,41 +9,42 @@ section: content
 
 ## Principes de Monero
 
-* Réseau décentralisé:  
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos dolorem atque voluptatum officiis deleniti amet cumque quam, officia corporis veritatis, alias debitis voluptate quaerat numquam enim illo dignissimos magni sunt.
+* ***Réseau décentralisé:***  
+Le réseau Monero et sa blockchain sont distribués de manière globale. Il n'y a pas des erveur central ou de base de données centrale qui peut être piratée ou censurée. Si un gouvernement veut interrompre le réseau dans son pays, tous ses efforts seront inutiles. Le reste du monde peut continuer à maintenir le réseau et à faire des transactions
 
-* Sécurité financière:  
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facere aliquam explicabo doloribus tenetur, eum ducimus porro aut cumque, itaque laborum eveniet dolorem quidem laudantium! Expedita facilis, nobis odio atque reiciendis.
+* ***Sécurité financière:***  
+Le réseau Monero est sécurisé par lui même grâce à des mécanismes <a href="https://fr.wikipedia.org/wiki/Cryptographie">cryptographiques</a> incorruptibles. Chaque intervenant peut vérifier l'intégrité du réseau et de la blockchainpar lui même et stocker ses fonds sans risquer un piratage
 
-* Confidentialité financière:  
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores facilis nisi officiis accusamus, rem maiores culpa harum tenetur tempore hic aperiam exercitationem molestiae, quis nulla, maxime saepe commodi voluptate minus.
+* ***Confidentialité financière:***  
+La plupart des cryptomonnaies comme Bitcoin ou <a href="https://fr.wikipedia.org/wiki/Ethereum">Ethereum</a> ne sont en réalité pas anonymes mais pseudonymes. Chaque transaction est visible sur la blockchain avec denombreuses informations comme l'adresse de l'envoyeur, celle du receveur et le montant (et même l'ip !).Une fois qu'une adresse numérique est associée à une personne physique, on peut retracer tout l'historique deses transactions !
+La technologie Monero protège ses utilisateurs par des mécanismes cryptographiques.
 
-* Fongibilité:  
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus quod distinctio, vero repellendus. Fuga vel eveniet nihil est corporis eum ipsa, iusto atque, repudiandae magni facilis tempora dolorum asperiores fugit.
+* ***Fongibilité:***  
+Le terme fongibilité renvoie un actif considéré comme indistinguable et interchangeable. Par exemple, une pièce d'argent et égale à une autre pièce d'argent. Un lingot d'or est égal à autre lingot d'or. On dit que l'or est considéré comme fongible. Dans le cas des cryptomonnaie un bitcoin n'est pasforcément égal à un autre bitcoin étant donné que son historique est traçable par tout le monde. Un marchand en ligne peut ne pas accepter un bitcoin qui a été utilisé lors d'activités illégales.
 
-## Cas d'usage de Monero
+## Raisons d'utiliser Monero
 
-* Éviter la manipulation des prix:  
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore doloremque provident vel, ipsam, optio quidem rerum mollitia asperiores aliquam autem animi molestias excepturi consequuntur harum! Eius cumque sapiente, esse a.
+* ***Éviter la manipulation de marché:***  
+Vous pouvez acheter un bien ou un service à un vendeur. Si ce vendeur sait que vous avez suffisament sur votre compte pour vous payer une voiture de luxe, rien ne pourra l'empêcher de doubler le prix la prochaine fois.
 
-* Éviter la surveillance financière:  
+* ***Éviter la surveillance financière:***  
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit reiciendis reprehenderit aut adipisci fugit officia, at alias hic perferendis qui. Quia eum vel consequuntur atque nesciunt commodi aspernatur fugit quo.
 
-* Protéger son entreprise:  
+* ***Protéger son entreprise:***  
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur beatae voluptas, fugiat vel sapiente inventore reprehenderit sunt quibusdam! Unde voluptas vel iste sit dolores rerum harum, impedit vero alias voluptate.
 
-* Limiter la discrimination:  
+* ***Limiter la discrimination:***  
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellendus dicta consequuntur, modi, ducimus laborum omnis culpa quas magnam et saepe voluptatibus non error, hic deleniti inventore voluptatem necessitatibus ab eius!
 
 ## Aperçu de la technologie
 
-* RingCT:  
+* ***RingCT:***  
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi ducimus, ut, ullam minima quam reiciendis nobis obcaecati corrupti expedita. Id fugit voluptatibus alias facilis labore perferendis beatae laboriosam veniam quos?
 
-* Ring Signatures:  
+* ***Ring Signatures:***  
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi beatae est fugiat nemo quibusdam velit dicta accusamus pariatur itaque illum exercitationem omnis nostrum quo eos, dolorum soluta odio consequatur adipisci.
 
-* Adresses jetables:  
+* ***Adresses jetables:***  
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum nobis iusto perferendis omnis id aliquam vitae doloribus sapiente possimus nesciunt voluptas, suscipit nostrum, sit tenetur et numquam, corporis, beatae eaque.
 
 

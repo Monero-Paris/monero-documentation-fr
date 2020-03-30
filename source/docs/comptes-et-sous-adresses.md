@@ -5,4 +5,6 @@ extends: _layouts.documentation
 section: content
 ---
 
-# Comptes et sous-adresses 
+# Comptes et sous-adresses
+
+<img src="/assets/img/seed.svg" alt="seed">

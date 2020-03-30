@@ -12,7 +12,7 @@ Un monde ou les seules lois qui s'appliquent sont celle des consensus mathémati
 
 ## A propos de ce site
 
-Ce site est actuellement en ligne et son code source est hébergé sur <a href="#">Github</a>
+Ce site est actuellement en ligne et son code source est hébergé sur <a href="https://github.com/anon-coins-tutorials/monero-documentation-fr">Github</a>
 
 ### Installer le site en local
 
@@ -24,8 +24,8 @@ Si vous souhaitez installer le site sur votre machine pour le consulter hors lig
 
 
 ```bash
-git clone https://github.com/rere 
-cd sdds
+git clone https://github.com/anon-coins-tutorials/monero-documentation-fr
+cd monero-documentation-fr
 composer install
 ./vendor/bin/jigsaw serve
 ```
@@ -35,6 +35,6 @@ Puis ouvrez un navigateur à l'adresse suivante: <a href="http://localhost:8000"
 ### Mettre à jour le site en local
 
 ```
-cd rezrez
+cd monero-documentation-fr
 git pull
 ```
