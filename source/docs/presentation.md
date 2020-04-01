@@ -28,10 +28,10 @@ Le terme fongibilité renvoie un actif considéré comme indistinguable et inter
 Vous pouvez acheter un bien ou un service à un vendeur. Si ce vendeur sait que vous avez suffisament sur votre compte pour vous payer une voiture de luxe, rien ne pourra l'empêcher de doubler le prix la prochaine fois.
 
 * ***Éviter la surveillance financière:***  
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit reiciendis reprehenderit aut adipisci fugit officia, at alias hic perferendis qui. Quia eum vel consequuntur atque nesciunt commodi aspernatur fugit quo.
+Bitcoin est une technologie incroyable, mais hélas pas adaptée pour la vie privée. Les transactions sont publiques et laissent transparaitre de nombreuses informations comme l'adresse de l'envoyeur, l'adresse du receveur et le montant de la transaction. Un observateur peut analyser la blockchain pour retraçer toutes les transaction d'un utilisateur.
 
 * ***Protéger son entreprise:***  
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur beatae voluptas, fugiat vel sapiente inventore reprehenderit sunt quibusdam! Unde voluptas vel iste sit dolores rerum harum, impedit vero alias voluptate.
+Pour un chef d'entreprise, il est essentiel de se protéger de ses concurents.
 
 * ***Limiter la discrimination:***  
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellendus dicta consequuntur, modi, ducimus laborum omnis culpa quas magnam et saepe voluptatibus non error, hic deleniti inventore voluptatem necessitatibus ab eius!
@@ -39,12 +39,16 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellendus dicta cons
 ## Aperçu de la technologie
 
 * ***RingCT:***  
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi ducimus, ut, ullam minima quam reiciendis nobis obcaecati corrupti expedita. Id fugit voluptatibus alias facilis labore perferendis beatae laboriosam veniam quos?
+Ring Confidential Transaction est un moyen cryptographique de masquer le montant d'une transaction. Dans la plupart des autres cryptomonnaies, le montant d'une transaction est envoyé en clair, visible pour un observateur exterieur. RingCT garde cette information sensible privée en permettant à l'envoyeur de prouver qu'il a assez pour une transaction ***sans réveler le montant.***  
 
-* ***Ring Signatures:***  
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi beatae est fugiat nemo quibusdam velit dicta accusamus pariatur itaque illum exercitationem omnis nostrum quo eos, dolorum soluta odio consequatur adipisci.
+<iframe style="width: 100%; height: 600px;" src="https://www.youtube.com/embed/M3AHp9KgTkQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * ***Adresses jetables:***  
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum nobis iusto perferendis omnis id aliquam vitae doloribus sapiente possimus nesciunt voluptas, suscipit nostrum, sit tenetur et numquam, corporis, beatae eaque.
+Toutes les transactions utilisent des adresses jetables pour protéger la vie privée de receveur. Pour contrer l'enregistrement de l'adresse du reveveur sur la blockchain, chaque transaction est envoyé à une adresse jetable unique. Le receveur peut accéder à ses fonds sans exposer son adresse ni celles de ses précédentes transactions.
 
+<iframe style="width: 100%; height: 600px;" src="https://www.youtube.com/embed/bWst278J8NA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+* ***Ring Signatures:***  
+Ring Signatures, ou Signatures en Anneaux, est une fonctionnalité conçue pour protéger l'identidé de l'envoyeur en camouflant la source.
+
+<iframe style="width: 100%; height: 600px;" src="https://www.youtube.com/embed/zHN_B_H_fCs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

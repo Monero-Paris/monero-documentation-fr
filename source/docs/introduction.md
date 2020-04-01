@@ -18,9 +18,9 @@ Ce site est actuellement en ligne et son code source est hébergé sur <a href="
 
 Si vous souhaitez installer le site sur votre machine pour le consulter hors ligne, il vous faudra installer l'environnement de développement, à savoir:
 
-* PHP, le language de programmation simple et accéssible pour créer facilement des sites dynamiques
-* Composer, le gestionnaire de dépendance qui permet de télécharger et configurer les librairies
-* Git, le gestionnaire de code source
+* <a href="https://www.php.net/" target="_blank">PHP</a>, le language de programmation simple et accéssible pour créer facilement des sites dynamiques
+* <a href="https://getcomposer.org/" target="_blank">Composer</a>, le gestionnaire de dépendance qui permet de télécharger et configurer les librairies
+* <a href="https://git-scm.com/" target="_blank">Git</a>, le gestionnaire de code source
 
 
 ```bash
