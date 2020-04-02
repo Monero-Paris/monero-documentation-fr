@@ -17,14 +17,14 @@ return [
             "Consulter l'historique" => 'docs/historique',
             'Comptes et sous-adresses' => 'docs/comptes-et-sous-adresses',
             'Prouver une transaction' => 'docs/prouver-une-transaction',
-            'Vérifier une transaction' => 'docs/verifier-une-transaction',
-            'Outils pour les commerçants' => 'docs/commercants'
+            'Outils pour les commerçants' => 'docs/commercants',
+            "Auditer un wallet" => 'docs/audit',
         ]
     ],
     'Utilisation avancée' => [
         'url' => 'docs/utilisation-avancee',
         'children' => [
-            'Command Line Interface' => 'docs/cli',
+            'Ligne de commande - CLI' => 'docs/cli',
             'Stockage froid' => 'docs/stockage-froid',
             'Noeud' => 'docs/noeuds',
             'TOR' => 'docs/tor',
