@@ -26,10 +26,8 @@ return [
         'children' => [
             'Ligne de commande - CLI' => 'docs/cli',
             'Stockage froid' => 'docs/stockage-froid',
-            'Noeud' => 'docs/noeuds',
             'TOR' => 'docs/tor',
             'TAILS' => 'docs/tails',
-            'Minage' => 'docs/minage',
         ],
     ],
     'Acheter du Monero' => 'docs/acheter',
