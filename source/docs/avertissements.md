@@ -7,7 +7,7 @@ section: content
 
 # Avertisseemnts
 
-Bien que ce livre présente une technologie qui permet de rendre des transactions intraçables, il n’est en aucun cas une incitation à une quelconque activité moralement répréhensible.
+Bien que ce site présente une technologie qui permet de rendre des transactions intraçables, il n’est en aucun cas une incitation à une quelconque activité moralement répréhensible.
 
 Les cryptomonnaies ne sont pas un moyen d’argent facile et rapide, le lecteur est appelé à la prudence dans ses investissements.
 

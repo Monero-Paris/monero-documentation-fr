@@ -20,7 +20,7 @@ La plupart des cryptomonnaies comme Bitcoin ou <a href="https://fr.wikipedia.org
 La technologie Monero protège ses utilisateurs par des mécanismes cryptographiques.
 
 * ***Fongibilité:***  
-Le terme fongibilité renvoie un actif considéré comme indistinguable et interchangeable. Par exemple, une pièce d'argent et égale à une autre pièce d'argent. Un lingot d'or est égal à autre lingot d'or. On dit que l'or est considéré comme fongible. Dans le cas des cryptomonnaie un bitcoin n'est pasforcément égal à un autre bitcoin étant donné que son historique est traçable par tout le monde. Un marchand en ligne peut ne pas accepter un bitcoin qui a été utilisé lors d'activités illégales.
+Le terme fongibilité renvoie un actif considéré comme indistinguable et interchangeable. Par exemple, une pièce d'argent et égale à une autre pièce d'argent. Un lingot d'or est égal à autre lingot d'or. On dit que l'or est considéré comme fongible. Dans le cas des cryptomonnaie un bitcoin n'est pas forcément égal à un autre bitcoin étant donné que son historique est traçable par tout le monde. Un marchand en ligne peut ne pas accepter un bitcoin qui a été utilisé lors d'activités illégales.
 
 ## Raisons d'utiliser Monero
 

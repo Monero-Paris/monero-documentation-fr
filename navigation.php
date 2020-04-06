@@ -25,9 +25,10 @@ return [
         'url' => 'docs/utilisation-avancee',
         'children' => [
             'Ligne de commande - CLI' => 'docs/cli',
-            'Stockage froid' => 'docs/stockage-froid',
+            // TODO dev
             'TOR' => 'docs/tor',
             'TAILS' => 'docs/tails',
+            'Stockage froid' => 'docs/stockage-froid',
         ],
     ],
     'Acheter du Monero' => 'docs/acheter',

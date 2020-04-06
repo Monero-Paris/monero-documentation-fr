@@ -380,8 +380,134 @@ Wallet options:
 
 ```
 
-Pour restaurer un wallet à partir d'u seed: 
+Pour restaurer un wallet à partir du seed: 
 
 ```bash
 monero-wallet-cli --restore-from-seed
 ```
+
+Une fois le wallet synchronisé: help
+
+```bash
+help
+CommandesÂ :
+  account
+    account new <label text with white spaces allowed>
+    account switch <index>
+    account label <index> <label text with white spaces allowed>
+    account tag <tag_name> <account_index_1> [<account_index_2> ...]
+    account untag <account_index_1> [<account_index_2> ...]
+    account tag_description <tag_name> <description>
+  address [ new <label text with white spaces allowed> | all | <index_min> [<index_max>] | label <index> <label text with white spaces allowed> | device [<index>]]
+  address_book [(add ((<address> [pid <id>])|<integrated address>) [<description possibly with whitespaces>])|(delete <index>)]
+  balance [detail]
+  bc_height
+  check_reserve_proof <address> <signature_file> [<message>]
+  check_spend_proof <txid> <signature_file> [<message>]
+  check_tx_key <txid> <txkey> <address>
+  check_tx_proof <txid> <address> <signature_file> [<message>]
+  donate [index=<N1>[,<N2>,...]] [<priority>] [<ring_size>] <amount> [<payment_id (obsolete)>]
+  encrypted_seed
+  exchange_multisig_keys <string> [<string>...]
+  export_key_images [all] <filename>
+  export_multisig_info <filename>
+  export_outputs [all] <filename>
+  export_raw_multisig_tx <filename>
+  export_transfers [in|out|all|pending|failed|coinbase] [index=<N1>[,<N2>,...]] [<hauteur_min> [<hauteur_max>]] [output=<chemin_de_fichier>]
+  fee
+  finalize_multisig <string> [<string>...]
+  freeze <key_image>
+  frozen <key_image>
+  get_description
+  get_reserve_proof (all|<amount>) [<message>]
+  get_spend_proof <txid> [<message>]
+  get_tx_key <txid>
+  get_tx_note <txid>
+  get_tx_proof <txid> <address> [<message>]
+  help [<command>]
+  hw_key_images_sync
+  hw_reconnect
+  import_key_images <filename>
+  import_multisig_info <filename> [<filename>...]
+  import_outputs <filename>
+  incoming_transfers [available|unavailable] [verbose] [uses] [index=<N1>[,<N2>[,...]]]
+  integrated_address [device] [<payment_id> | <address>]
+  is_output_spent <amount>/<offset>
+  lock
+  locked_sweep_all [index=<N1>[,<N2>,...]] [<priority>] [<ring_size>] <address> <lockblocks> [<payment_id (obsolete)>]
+  locked_transfer [index=<N1>[,<N2>,...]] [<priority>] [<ring_size>] (<URI> | <addr> <amount>) <lockblocks> [<payment_id (obsolete)>]
+  make_multisig <threshold> <string1> [<string>...]
+  mark_output_spent <amount>/<offset> | <filename> [add]
+  mark_output_unspent <amount>/<offset>
+  mms [<subcommand> [<subcommand_parameters>]]
+  mms auto_config <auto_config_token>
+  mms delete (<message_id> | all)
+  mms export <message_id>
+  mms info
+  mms init <required_signers>/<authorized_signers> <own_label> <own_transport_address>
+  mms list
+  mms next [sync]
+  mms note [<label> <text>]
+  mms receive
+  mms send [<message_id>]
+  mms send_signer_config
+  mms set <option_name> [<option_value>]
+  mms show <message_id>
+  mms signer [<nombre> <Ã©tiquette> [<adresse_de_transport> [<adresse_monero>]]]
+  mms start_auto_config [<label> <label> ...]
+  mms stop_auto_config
+  mms sync
+  mms transfer <transfer_command_arguments>
+  net_stats
+  password
+  payment_id
+  payments <PID_1> [<PID_2> ... <PID_N>]
+  prepare_multisig
+  print_ring <key_image> | <txid>
+  public_nodes
+  refresh
+  rescan_bc [hard|soft|keep_ki] [start_height=0]
+  rescan_spent
+  restore_height
+  rpc_payment_info
+  save
+  save_bc
+  save_known_rings
+  save_watch_only
+  seed
+  set <option> [<value>]
+  set_daemon <host>[:<port>] [trusted|untrusted]
+  set_description [free text note]
+  set_log <level>|{+,-,}<categories>
+  set_ring <filename> | ( <key_image> absolute|relative <index> [<index>...] )
+  set_tx_key <txid> <tx_key>
+  set_tx_note <txid> [free text note]
+  show_transfer <txid>
+  show_transfers [in|out|pending|failed|pool|coinbase] [index=<N1>[,<N2>,...]] [<min_height> [<max_height>]]
+  sign <filename>
+  sign_multisig <filename>
+  sign_transfer [export_raw]
+  spendkey
+  start_mining [<number_of_threads>] [bg_mining] [ignore_battery]
+  start_mining_for_rpc
+  status
+  stop_mining
+  stop_mining_for_rpc
+  submit_multisig <filename>
+  submit_transfer
+  sweep_all [index=<N1>[,<N2>,...]] [<priority>] [<ring_size>] [outputs=<N>] <address> [<payment_id (obsolete)>]
+  sweep_below <amount_threshold> [index=<N1>[,<N2>,...]] [<priority>] [<ring_size>] <address> [<payment_id (obsolete)>]
+  sweep_single [<priority>] [<ring_size>] [outputs=<N>] <key_image> <address> [<payment_id (obsolete)>]
+  sweep_unmixable
+  thaw <key_image>
+  transfer [index=<N1>[,<N2>,...]] [<priority>] [<ring_size>] (<URI> | <address> <amount>) [<payment_id>]
+  unset_ring <txid> | ( <key_image> [<key_image>...] )
+  unspent_outputs [index=<N1>[,<N2>,...]] [<min_amount> [<max_amount>]]
+  verify <filename> <address> <signature>
+  version
+  viewkey
+  wallet_info
+  welcome
+```
+
+Toutes les actions du GUI sont disponibles en ligne de commande.
