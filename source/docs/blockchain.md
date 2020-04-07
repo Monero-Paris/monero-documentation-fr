@@ -27,4 +27,4 @@ Toute transaction sur le réseau est irreversible et définitive. Les commerçan
 <a href="https://en.bitcoin.it/wiki/Irreversible_Transactions" target="_blank">Source</a>
 
 * ***Risque de censure limité:***  
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero porro, necessitatibus modi, tempora ipsa totam, exercitationem doloremque neque autem voluptatem iste cum consequatur nulla! Omnis veritatis mollitia quo vel, pariatur.
+Il n'y a pas de serveur central à attaquer. Les informations sont réparties sur plusieurs noeuds. Aucun gouvernement ne peut faire tomber des milliers de noeuds simultanément.

@@ -9,7 +9,7 @@ section: content
 
 ## Réstaurer un portefeuille à partir des clés ou de la phrase mnémonique
 
-Inserer la phrase mnémonique (les 25 mots que vous avez précieusement noté), puis écrire un mot de passe dans les deux champs dédiés.
+Inserer la phrase mnémonique (les 25 mots que vous avez noté et précieusement gardé), puis écrire un mot de passe dans les deux champs dédiés.
 Si tout se passe bien, l'application affiche le menu.
 
 ### Téléchargement et synchronisation
