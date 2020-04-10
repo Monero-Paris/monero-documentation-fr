@@ -41,7 +41,7 @@
         <div class="mx-3 px-2 md:w-1/3">
             <img src="/assets/img/icon-stack.svg" class="h-12 w-12" alt="stack icon">
 
-            <h3 id="intro-mix" class="text-2xl text-blue-900 mb-0">Compile your assets <br>using Laravel Mix </h3>
+            <h3 id="intro-mix" class="text-2xl text-blue-900 mb-0">Tails et  TOR</h3>
 
             <p>Jigsaw comes pre-configured with Laravel Mix, a simple and powerful build tool. Use the latest frontend tech with just a few lines of code.</p>
         </div>

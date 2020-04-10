@@ -69,16 +69,9 @@
         @stack('scripts')
 
         <footer class="bg-white text-center text-sm mt-12 py-4" role="contentinfo">
-            <ul class="flex flex-col md:flex-row justify-center">
-                <li class="md:mr-2">
-                    &copy; <a href="https://tighten.co" title="Tighten website">Tighten</a> {{ date('Y') }}.
-                </li>
-
-                <li>
-                    Built with <a href="http://jigsaw.tighten.co" title="Jigsaw by Tighten">Jigsaw</a>
-                    and <a href="https://tailwindcss.com" title="Tailwind CSS, a utility-first CSS framework">Tailwind CSS</a>.
-                </li>
-            </ul>
+            <div>
+                Licence <a href="https://fr.wikipedia.org/wiki/WTFPL" title="WTFPL">WTFPL</a> - Présenté par le groupe Monero Paris
+            </div>
         </footer>
     </body>
 </html>
